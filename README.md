@@ -1,4 +1,4 @@
-### Hi I'm BG-VC
+
 <h1 align="center">Hi 👋, I'm BG-VC</h1>
 
 - 👯 I'm committed to becoming a **full-stack architect** (Golang、Java、Flutter、Solidity)
