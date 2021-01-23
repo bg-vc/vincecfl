@@ -3,7 +3,7 @@
 
 - 👯 I'm committed to becoming a **full-stack architect** (Golang、Java、Flutter、Solidity)
 
-- 🔭 I continue to pay attention to the development of blockchain technology (btc、eth、tron、dot)
+- 🔭 I continue to pay attention to the development of blockchain technology (BTC、ETH、IPFS、TRON、DOT)
 
 - ⚡ I continue to make code contributions to [Flash Finance](https://flash2c.cn)
 
